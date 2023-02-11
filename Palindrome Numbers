@@ -1,14 +1,14 @@
 /* Given an integer x, return true if x is a 
 palindrome , and false otherwise. */
 
-// Solution 1: Using String
+// Using String
 const isPalindromeString = (x) => {
     const str = x.toString();
     const reversedStr = str.split('').reverse().join('');
     return str === reversedStr;
 }
 
-// Solution 2: Using Math
+// Using Math
 const isPalindromeMath = (x) => {
     if (x < 0) return false;
     let reversed = 0;
