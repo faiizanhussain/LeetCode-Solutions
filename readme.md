@@ -1,13 +1,19 @@
 
+## Index
+
+- [Results for Valid Parenthesis](#results-for-valid-parenthesis)
+- [Results for Merge Sorted Lists](#results-for-merge-sorted-lists)
+- [Results for Remove Duplicated from Sorted Array](#results-for-remove-duplicated-from-sorted-array)
+- [Results for Removing Elements](#results-for-removing-elements)
+- [Index of the First Occurrence in a String](#index-of-the-first-occurrence-in-a-string)
+
 ## Results for Valid Parenthesis
 
 ![alt text](image.png)
 
-
 ## Results for Merge Sorted Lists
 
 ![alt text](image-1.png)
-
 
 ## Results for Remove Duplicated from Sorted Array
 
