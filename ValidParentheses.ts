@@ -11,8 +11,7 @@ function isValid(s: string): boolean {
         if (map[char]) {
             stack.push(char);
         } else {
-            const top = stack.pop();
-            if (map[top!] !== char) {
+            if (stack.length === 0 || map[stack.pop()!] !== char) {
                 return false;
             }
         }
