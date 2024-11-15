@@ -1,11 +1,11 @@
 
 ## Index
-
 - [Results for Valid Parenthesis](#results-for-valid-parenthesis)
 - [Results for Merge Sorted Lists](#results-for-merge-sorted-lists)
 - [Results for Remove Duplicated from Sorted Array](#results-for-remove-duplicated-from-sorted-array)
 - [Results for Removing Elements](#results-for-removing-elements)
 - [Index of the First Occurrence in a String](#index-of-the-first-occurrence-in-a-string)
+- [Search Insert Position](#search-insert-position)
 
 ## Results for Valid Parenthesis
 
@@ -33,3 +33,10 @@ Return k.
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 ![alt text](image-4.png)
+
+## Search Insert Position
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+You must write an algorithm with O(log n) runtime complexity. 
+
+![alt text](image-5.png)

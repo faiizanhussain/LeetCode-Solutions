@@ -4,8 +4,8 @@ Keep the runtime complexity of solution lowest.
 */
 
 // Using String
-const romanToIntString = (s) => {
-    const romanToInt = {
+const romanToIntString = (s: string): number => {
+    const romanToInt: { [key: string]: number } = {
         I: 1,
         V: 5,
         X: 10,

@@ -2,14 +2,14 @@
 palindrome , and false otherwise. */
 
 // Using String, creating afunction to get palindrome
-const isPalindromeString = (x) => {
+const isPalindromeString = (x: number): boolean => {
     const str = x.toString();
     const reversedStr = str.split('').reverse().join('');
     return str === reversedStr;
 }
 
 // Using Math
-const isPalindromeMath = (x) => {
+const isPalindromeMath = (x: number): boolean => {
     if (x < 0) return false;
     let reversed = 0;
     let remainder;

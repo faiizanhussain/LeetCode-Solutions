@@ -11,15 +11,15 @@ Return an array answer of length n, where each answer[x] is the length of the sh
 */
 
 // Using BFS
-const shortestAlternatingPaths = (n, redEdges, blueEdges) => {
-    const graph = Array(n).fill(null).map(() => []);
+const shortestAlternatingPaths = (n: number, redEdges: number[][], blueEdges: number[][]): number[] => {
+    const graph: [number, number][][] = Array(n).fill(null).map(() => []);
     for (const [u, v] of redEdges) graph[u].push([v, 0]);
     for (const [u, v] of blueEdges) graph[u].push([v, 1]);
     const queue = [[0, -1, 0]];
     const seen = new Set();
     const res = Array(n).fill(-1);
     while (queue.length) {
-        const [node, color, dist] = queue.shift();
+        const [node, color, dist] = queue.shift()!;
         if (seen.has(node + '-' + color)) continue;
         seen.add(node + '-' + color);
         if (res[node] === -1) res[node] = dist;
