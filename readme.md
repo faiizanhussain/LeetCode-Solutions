@@ -40,3 +40,19 @@ Given a sorted array of distinct integers and a target value, return the index i
 You must write an algorithm with O(log n) runtime complexity. 
 
 ![alt text](image-5.png)
+
+
+## Length of Last Word
+Given a string `s` consisting of words and spaces, `return` the length of the last word in the `string`.
+
+A word is a maximal `substring` consisting of non-space characters only.
+
+![alt text](image-6.png)
+
+## Plus One
+
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
+
+Increment the large integer by one and return the resulting array of digits.
+
+![alt text](image-7.png)
