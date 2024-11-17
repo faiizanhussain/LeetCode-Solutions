@@ -56,3 +56,20 @@ You are given a large integer represented as an integer array digits, where each
 Increment the large integer by one and return the resulting array of digits.
 
 ![alt text](image-7.png)
+
+
+## Add Binary
+
+Given two binary strings `a` and `b`, return their sum as a `binary` string.
+
+![alt text](image-8.png)
+
+
+## Sqrt(x)
+
+Given a non-negative integer `x`, return the square root of `x` rounded down to the nearest integer. The returned integer should be non-negative as well.
+
+You must not use any built-in exponent function or operator.
+    - For example, do not use `pow(x, 0.5)` in c++ or `x ** 0.5` in python.
+
+![alt text](image-9.png)
