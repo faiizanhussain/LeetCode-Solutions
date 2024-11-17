@@ -6,6 +6,10 @@
 - [Results for Removing Elements](#results-for-removing-elements)
 - [Index of the First Occurrence in a String](#index-of-the-first-occurrence-in-a-string)
 - [Search Insert Position](#search-insert-position)
+- [Length of Last Word](#length-of-last-word)
+- [Plus One](#plus-one)
+- [Add Binary](#add-binary)
+- [Sqrt(x)](#sqrtx)
 
 ## Results for Valid Parenthesis
 
@@ -41,7 +45,6 @@ You must write an algorithm with O(log n) runtime complexity.
 
 ![alt text](image-5.png)
 
-
 ## Length of Last Word
 Given a string `s` consisting of words and spaces, `return` the length of the last word in the `string`.
 
@@ -57,13 +60,11 @@ Increment the large integer by one and return the resulting array of digits.
 
 ![alt text](image-7.png)
 
-
 ## Add Binary
 
 Given two binary strings `a` and `b`, return their sum as a `binary` string.
 
 ![alt text](image-8.png)
-
 
 ## Sqrt(x)
 
