@@ -74,3 +74,18 @@ You must not use any built-in exponent function or operator.
     - For example, do not use `pow(x, 0.5)` in c++ or `x ** 0.5` in python.
 
 ![alt text](image-9.png)
+
+## Climbing Stairs
+
+You are climbing a staircase. It takes n steps to reach the top.
+
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+![alt text](image-10.png)
+
+## Remove Duplicates from Sorted Lists
+
+Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+
+
+![alt text](image-11.png)
