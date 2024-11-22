@@ -2,7 +2,7 @@
 ## Index
 - [Results for Valid Parenthesis](#results-for-valid-parenthesis)
 - [Results for Merge Sorted Lists](#results-for-merge-sorted-lists)
-- [Results for Remove Duplicated from Sorted Array](#results-for-remove-duplicated-from-sorted-array)
+- [Results for Remove Duplicates from Sorted Array](#results-for-remove-duplicates-from-sorted-array)
 - [Results for Removing Elements](#results-for-removing-elements)
 - [Index of the First Occurrence in a String](#index-of-the-first-occurrence-in-a-string)
 - [Search Insert Position](#search-insert-position)
@@ -10,6 +10,10 @@
 - [Plus One](#plus-one)
 - [Add Binary](#add-binary)
 - [Sqrt(x)](#sqrtx)
+- [Climbing Stairs](#climbing-stairs)
+- [Remove Duplicates from Sorted Lists](#remove-duplicates-from-sorted-lists)
+- [Merge Sorted Array](#merge-sorted-array)
+- [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
 
 ## Results for Valid Parenthesis
 
@@ -19,7 +23,7 @@
 
 ![alt text](image-1.png)
 
-## Results for Remove Duplicated from Sorted Array
+## Results for Remove Duplicates from Sorted Array
 
 ![alt text](image-2.png)
 
@@ -98,3 +102,9 @@ Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
 ![alt text](image-12.png)
+
+## Binary Tree Inorder Traversal
+
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
+
+![alt text](image-13.png)
