@@ -117,3 +117,9 @@ Given the roots of two binary trees p and q, write a function to check if they a
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
 ![alt text](/results/image-14.png)
+
+## Symmetric Tree
+
+Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+
+![alt text](/results/symmetricTree.png)
