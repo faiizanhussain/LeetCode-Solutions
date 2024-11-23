@@ -14,18 +14,19 @@
 - [Remove Duplicates from Sorted Lists](#remove-duplicates-from-sorted-lists)
 - [Merge Sorted Array](#merge-sorted-array)
 - [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
+- [Same Tree](#same-tree)
 
 ## Results for Valid Parenthesis
 
-![alt text](image.png)
+![alt text](/results/image.png)
 
 ## Results for Merge Sorted Lists
 
-![alt text](image-1.png)
+![alt text](/results/image-1.png)
 
 ## Results for Remove Duplicates from Sorted Array
 
-![alt text](image-2.png)
+![alt text](/results/image-2.png)
 
 ## Results for Removing Elements
 Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
@@ -35,26 +36,26 @@ Consider the number of elements in nums which are not equal to val be k, to get 
 Change the array nums such that the first k elements of nums contain the elements which are not equal to val. The remaining elements of nums are not important as well as the size of nums.
 Return k.
 
-![alt text](image-3.png)
+![alt text](/results/image-3.png)
 
 ## Index of the First Occurrence in a String
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
-![alt text](image-4.png)
+![alt text](/results/image-4.png)
 
 ## Search Insert Position
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 You must write an algorithm with O(log n) runtime complexity. 
 
-![alt text](image-5.png)
+![alt text](/results/image-5.png)
 
 ## Length of Last Word
 Given a string `s` consisting of words and spaces, `return` the length of the last word in the `string`.
 
 A word is a maximal `substring` consisting of non-space characters only.
 
-![alt text](image-6.png)
+![alt text](/results/image-6.png)
 
 ## Plus One
 
@@ -62,13 +63,13 @@ You are given a large integer represented as an integer array digits, where each
 
 Increment the large integer by one and return the resulting array of digits.
 
-![alt text](image-7.png)
+![alt text](/results/image-7.png)
 
 ## Add Binary
 
 Given two binary strings `a` and `b`, return their sum as a `binary` string.
 
-![alt text](image-8.png)
+![alt text](/results/image-8.png)
 
 ## Sqrt(x)
 
@@ -77,7 +78,7 @@ Given a non-negative integer `x`, return the square root of `x` rounded down to 
 You must not use any built-in exponent function or operator.
     - For example, do not use `pow(x, 0.5)` in c++ or `x ** 0.5` in python.
 
-![alt text](image-9.png)
+![alt text](/results/image-9.png)
 
 ## Climbing Stairs
 
@@ -85,13 +86,13 @@ You are climbing a staircase. It takes n steps to reach the top.
 
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
-![alt text](image-10.png)
+![alt text](/results/image-10.png)
 
 ## Remove Duplicates from Sorted Lists
 
 Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
 
-![alt text](image-11.png)
+![alt text](/results/image-11.png)
 
 ## Merge Sorted Array
 
@@ -101,13 +102,13 @@ Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
-![alt text](image-12.png)
+![alt text](/results/image-12.png)
 
 ## Binary Tree Inorder Traversal
 
 Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
-![alt text](image-13.png)
+![alt text](/results/image-13.png)
 
 ## Same Tree
 
@@ -115,4 +116,4 @@ Given the roots of two binary trees p and q, write a function to check if they a
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
-![alt text](image-14.png)
+![alt text](/results/image-14.png)
