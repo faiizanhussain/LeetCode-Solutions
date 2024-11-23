@@ -108,3 +108,11 @@ The final sorted array should not be returned by the function, but instead be st
 Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
 ![alt text](image-13.png)
+
+## Same Tree
+
+Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+![alt text](image-14.png)
