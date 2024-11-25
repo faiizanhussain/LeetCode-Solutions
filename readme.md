@@ -15,6 +15,7 @@
 - [Merge Sorted Array](#merge-sorted-array)
 - [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
 - [Same Tree](#same-tree)
+- [Maximum Depth for Binary Tree](#maximum-depth-of-a-binary-tree)
 
 ## Results for Valid Parenthesis
 
@@ -123,3 +124,11 @@ Two binary trees are considered the same if they are structurally identical, and
 Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
 
 ![alt text](/results/symmetricTree.png)
+
+## Maximum Depth of a Binary Tree
+
+Given the root of a binary tree, return its maximum depth.
+
+A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+![alt text](MaximumDepthofBinaryTree.png)
