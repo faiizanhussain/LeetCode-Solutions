@@ -15,4 +15,4 @@ Notes
 A cycle is a series of nodes a1, a2, ..., an, an+1 such that node a1 is the same node as node an+1, the nodes a1, a2, ..., an are distinct, and there is a directed edge from the node ai to node ai+1 for every i in the range [1, n].
 A DAG is a directed graph that does not have any cycle.
 
-![alt text](image.png)
+![alt text](FindChampionII.png)
