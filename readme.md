@@ -139,3 +139,9 @@ Given an integer array nums where the elements are sorted in ascending order, co
 height-balanced binary search tree.
 
 ![alt text](/results/SortedArraytoBinaryTree.png)
+
+## Balanced Binary Tree
+
+Given a binary tree, determine if it is height-balanced
+
+![alt text](/results/BalanceBinaryTree.png)
