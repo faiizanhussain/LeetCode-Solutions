@@ -145,3 +145,11 @@ height-balanced binary search tree.
 Given a binary tree, determine if it is height-balanced
 
 ![alt text](/results/BalanceBinaryTree.png)
+
+## Minimum Depth of Binary Tree
+
+### Iterative Approach
+![alt text](/results/MDBT%20-%20IterativeApproach.png)
+
+### Recursive Approach
+![alt text](/results/MDBT%20-%20RecursiveApproach.png)
