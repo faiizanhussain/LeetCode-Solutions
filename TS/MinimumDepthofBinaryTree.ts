@@ -20,21 +20,21 @@ Iterative Approach:
 */
 
 // Recursive Approach
-function minDepth(root: TreeNode | null): number {
+function recursiveMinDepth(root: TreeNode | null): number {
     if (root === null) {
         return 0;
     }
     if (root.left === null) {
-        return minDepth(root.right) + 1;
+        return recursiveMinDepth(root.right) + 1;
     }
     if (root.right === null) {
-        return minDepth(root.left) + 1;
+        return recursiveMinDepth(root.left) + 1;
     }
-    return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
+    return Math.min(recursiveMinDepth(root.left), recursiveMinDepth(root.right)) + 1;
 }
 
 // Iterative Approach
-function minDepth(root: TreeNode | null): number {
+function iterativeMinDepth(root: TreeNode | null): number {
     if (root === null) {
         return 0;
     }

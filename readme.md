@@ -16,6 +16,12 @@
 - [Binary Tree Inorder Traversal](#binary-tree-inorder-traversal)
 - [Same Tree](#same-tree)
 - [Maximum Depth for Binary Tree](#maximum-depth-of-a-binary-tree)
+- [Symmetric Tree](#symmetric-tree)
+- [Maximum Depth of Binary Tree](#maximum-depth-of-a-binary-tree)
+- [Convert Sorted Array to Binary Tree](#convert-sorted-array-into-binary-tree)
+- [Balanced Binary Tree](#balanced-binary-tree)
+- [Minimum Depth of Binary Tree](#minimum-depth-of-binary-tree)
+- [Path Sum](#path-sum)
 
 ## Results for Valid Parenthesis
 
@@ -153,3 +159,10 @@ Given a binary tree, determine if it is height-balanced
 
 ### Recursive Approach
 ![alt text](/results/MDBT%20-%20RecursiveApproach.png)
+
+## Path Sum
+Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.
+
+A leaf is a node with no children.
+
+![alt text](/results/PathSum.png)
