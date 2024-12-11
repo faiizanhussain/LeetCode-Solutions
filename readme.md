@@ -22,6 +22,7 @@
 - [Balanced Binary Tree](#balanced-binary-tree)
 - [Minimum Depth of Binary Tree](#minimum-depth-of-binary-tree)
 - [Path Sum](#path-sum)
+- [Pascal's Triangle](#pascals-triangle)
 
 ## Results for Valid Parenthesis
 
@@ -166,3 +167,8 @@ Given the root of a binary tree and an integer targetSum, return true if the tre
 A leaf is a node with no children.
 
 ![alt text](/results/PathSum.png)
+
+## Pascal's Triangle
+Given numRows, generate the first numRows of Pascal's triangle.
+
+![alt text](/results/PascalTriangle.png)
